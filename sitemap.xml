@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://fzzfrjf.github.io/posts/1.html</loc>
+    
+    <lastmod>2022-03-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://fzzfrjf.github.io/posts/1.html</loc>
+    
+    <lastmod>2022-03-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://fzzfrjf.github.io/List/music/index.html</loc>
     
     <lastmod>2022-03-27</lastmod>
@@ -108,10 +122,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://fzzfrjf.github.io/tags/%E8%A7%A3%E6%B3%95/</loc>
+    <lastmod>2022-03-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://fzzfrjf.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-03-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://fzzfrjf.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
