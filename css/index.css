@@ -6385,3 +6385,12 @@ blockquote.pullquote.right {
     max-height: 75vh !important;
   }
 }
+.recent-post-item {
+  background: rgba(255,255,255,0.7) !important;
+}
+.card-widget {
+  background: rgba(255,255,255,0.7) !important;
+}
+#post {
+  background: rgba(255,255,255,0.7) !important;
+}
